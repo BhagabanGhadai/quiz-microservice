@@ -1,0 +1,11 @@
+{
+    "PORT":2000,
+    "mongo_db":"mongodb+srv://techCybertize:JZnHzuF7YkC1TX4r@cluster0.izbjwtv.mongodb.net/quizMicroservice",
+    "access_exp_time":3600,
+    "refresh_exp_time":172800,
+    "access_secretkey":"oknefv9hu9efoiernoi[jv0enfn[0fh=0oniesfbvh3r4hh9r3292bio",
+    "refresh_secretkey":"oidnh9chf439fbp3rh0n43fb4[f03bfb9cbrb90eh3032ifh0nbobf9b3df0",
+    "cloudinary_cloud_name": "mankavit",
+    "cloudinary_api_key": "441265679511652",
+    "cloudinary_api_secret": "ffKs3wigYnxQPBqtg2HfwlxQoIs"
+}

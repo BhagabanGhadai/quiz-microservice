@@ -1,0 +1,15 @@
+{
+    "PORT": 2000,
+    "mongo_db": "mongodb+srv://techCybertize:JZnHzuF7YkC1TX4r@cluster0.izbjwtv.mongodb.net/quizMicroservice",
+    "access_exp_time": 3600,
+    "refresh_exp_time": 172800,
+    "access_secretkey": "mankantlaweducation",
+    "cloudinary_cloud_name": "mankavit",
+    "cloudinary_api_key": "441265679511652",
+    "cloudinary_api_secret": "ffKs3wigYnxQPBqtg2HfwlxQoIs",
+    "mankavit_db": {
+        "MONGO_DB_USER": "techCybertize",
+        "MONGO_DB_PASSWORD": "JZnHzuF7YkC1TX4r",
+        "MONGO_DB_DATABASE": "mankavit"
+    }
+}
